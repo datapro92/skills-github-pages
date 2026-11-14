@@ -1,3 +1,3 @@
 ---
-title: data pro 1992
+title: data pro 1992 -  network novice
 ---
